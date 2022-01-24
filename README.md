@@ -40,8 +40,7 @@ isalpha • isdigit • isalnum • isascii • isprint • strlen • memset �
 
 | Function name | ft_strchr && ft_strrchr|
 | :-----------: | :-------: |
-| Description   | La fonction strchr() renvoie un pointeur sur la première occurrence du caractère c dans la chaîne s.
-La fonction strrchr() renvoie un pointeur sur la dernière occurrence du caractère c dans la chaîne s.  |
+| Description   | La fonction strchr() renvoie un pointeur sur la première occurrence du caractère c dans la chaîne s. La fonction strrchr() renvoie un pointeur sur la dernière occurrence du caractère c dans la chaîne s.  |
 
 | Function name | ft_strdup |
 | :-----------: | :-------: |
